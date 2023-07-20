@@ -19,7 +19,7 @@ echo " "
 chatId=<chatId>
 botToken=<You Bot Token>
 
-####################### Sent #################################
+####################### Send #################################
 curdir=$PWD
 
 echo sending $curdir/$1
