@@ -5,5 +5,4 @@ For Telegram File And Message Sender
 <hr>
 
 
-[!Stargazers repo roster for @zerbaliy3v/teleSend](https://github.com/zerbaliy3v/teleSend/stargazers)
-
+[![Forkers repo roster for @zerbaliy3v/teleSend](https://reporoster.com/forks/dark/zerbaliy3v/teleSend)](https://github.com/zerbaliy3v/teleSend/network/members)
